@@ -1,9 +1,9 @@
 ﻿
-int numberA = new Random().Next(1, 10);
+int numberA = new Random().Next(1, 17);
 Console.WriteLine(numberA);
-int result1 = numberA*numberA;
+int result1 = numberA;
 
-int numberB = new Random().Next(1, 10);
+int numberB = new Random().Next(1, 5);
 Console.WriteLine(numberB);
 int result2 = numberB*numberB;
 
