@@ -1,4 +1,4 @@
-﻿
+﻿""
 int numberA = new Random().Next(1, 17);
 Console.WriteLine(numberA);
 int result1 = numberA;
