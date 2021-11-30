@@ -1,8 +1,8 @@
 ﻿// Найти максимальное из трех чисел
 
-int NumA = 13;
+int NumA = 2;
 int NumB = 6;
-int NumC = 9;
+int NumC = 3;
 
 int max = NumA;
 
@@ -16,5 +16,5 @@ if (NumC > max)
     max = NumC;
 }
 
-
 Console.WriteLine(max);
+
