@@ -25,13 +25,9 @@ Find3Num(Convert.ToInt32(Console.ReadLine()));
 //Console.Write("Введите любое число: ");
 //string NumberA = Console.ReadLine();
 
-Find3Num(Console.ReadLine());
+//Find3Num(Console.ReadLine());
 
 
 
 
 
-
-//if(NumberA[2]== 0) Console.WriteLine("В числе меньше трех цифр");
-
-//string.Empty - пока не знаю как вывести что нет цифры
